@@ -47,16 +47,19 @@ Official company website showcasing services, solutions, and portfolio.
 
 ---
 
-## 🎓 Education & Certifications
-- **BSc in Mathematics and Computer Science** – Meru University of Science and Technology  
-- **Oracle Learning Journey** – Currently advancing in enterprise software solutions  
-- _(Additional certifications can be added here)_  
+## 🏆 Key Achievements
+- ✅ Delivered **5+ production-ready systems** used by businesses across Kenya  
+- ✅ Integrated **MPESA APIs** for **10+ companies** to enable seamless mobile payments  
+- ✅ Built **scalable ERP solutions** that handle sales, inventory, and finance efficiently  
+- ✅ Founded **JM Innovatech Solutions**, a growing tech company offering web and software solutions  
+- ✅ Recognized for **building reliable systems that support SMEs and enterprises**  
 
 ---
 
-## 📊 GitHub Insights
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jmuthoga&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jmuthoga&layout=compact&theme=default)  
+## 🎓 Education & Certifications
+- **BSc in Mathematics and Computer Science** – Meru University of Science and Technology  
+- **Generative AI Certificate** – Open University of Kenya  
+- **Oracle Learning Journey** – Currently advancing in enterprise software solutions  
 
 ---
 
@@ -70,3 +73,4 @@ Official company website showcasing services, solutions, and portfolio.
 ---
 
 ✨ _“Code with purpose, build with passion, and innovate for impact.”_
+
