@@ -23,12 +23,12 @@ I have successfully delivered scalable solutions that streamline business operat
 ---
 
 ## 🛠 Skills & Technologies
-- **Programming Languages:** PHP, JavaScript, SQL, Python (basic)  
-- **Frameworks & Libraries:** Laravel, Livewire, React  
-- **Databases:** MySQL, PostgreSQL  
+- **Programming Languages:** PHP, JavaScript, Dart, SQL, Python (basic), PL/SQL (currently running)  
+- **Frameworks & Libraries:** Laravel, Livewire, React, Flutter  
+- **Databases:** MySQL, PostgreSQL, Oracle Database (currently running)  
 - **Payment APIs:** MPESA Daraja, STK Push, Paybill, C2B, B2C  
 - **Tools & Platforms:** Git, Docker, Composer, Nginx, Apache  
-- **Other Expertise:** REST APIs, Software Architecture, Agile Development  
+- **Other Expertise:** Mobile App Development, REST APIs, Software Architecture, Agile Development  
 
 ---
 
