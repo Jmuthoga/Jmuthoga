@@ -18,6 +18,7 @@ I have successfully delivered scalable solutions that streamline business operat
 - **Point of Sale (POS) & ERP Systems** – Managing sales, inventory, and finance  
 - **Payment Integrations** – MPESA STK Push, Paybill, C2B, and B2C APIs  
 - **E-commerce Platforms** – Complete online store solutions with secure payments  
+- **Mobile App Development** – Cross-platform apps with Flutter & Dart  
 - **Technology Consulting** – Helping businesses adopt the right digital solutions  
 
 ---
@@ -28,7 +29,7 @@ I have successfully delivered scalable solutions that streamline business operat
 - **Databases:** MySQL, PostgreSQL, Oracle Database (currently running)  
 - **Payment APIs:** MPESA Daraja, STK Push, Paybill, C2B, B2C  
 - **Tools & Platforms:** Git, Docker, Composer, Nginx, Apache  
-- **Other Expertise:** Mobile App Development, REST APIs, Software Architecture, Agile Development  
+- **Other Expertise:**  REST APIs, Software Architecture, Agile Development  
 
 ---
 
