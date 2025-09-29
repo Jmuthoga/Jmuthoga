@@ -81,8 +81,14 @@ A robust system that enables financial institutions to **manage borrowers, loans
 - 💼 LinkedIn: [in/johnmuthoga](https://www.linkedin.com/in/johnmuthoga)  
 - 📘 Facebook: [John Muthoga](https://web.facebook.com/profile.php?id=100063289765677)  
 - 🎵 TikTok: [@jminnovatech](https://www.tiktok.com/@jminnovatech)  
-
 ---
+
+## ☕ Support My Work
+
+I am passionate about building impactful systems that empower businesses and communities. If you have found value in my work, demos, or open-source projects and would like to support my journey, you can do so here: [**Buy Me a Coffee**](https://buymeacoffee.com/johnmuthogk).
+
+Your support makes a real difference, it helps me dedicate more time and energy to creating solutions that matter and to continue sharing knowledge with the community.
+
 
 ✨ _“Code with purpose, build with passion, and innovate for impact.”_
 
