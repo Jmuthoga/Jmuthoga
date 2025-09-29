@@ -37,19 +37,25 @@ I have successfully delivered scalable solutions that streamline business operat
 
 ### 🔹 [Point of Sale System with MPESA](https://pos.jminnovatechsolution.co.ke)
 
-Modern Laravel POS system with real-time MPESA integration, order management, and automated payment confirmation.
+A modern Laravel-based POS system designed to streamline sales, inventory, and financial management. It features **real-time MPESA integration**, automated order processing, and seamless payment confirmations, making it ideal for retail and wholesale businesses.
 
 ### 🔹 [Pharmacy Management System](https://github.com/Jmuthoga/Phamarcy_management_system)
 
-Comprehensive pharmacy management solution with inventory, orders, sales, and reporting features.
+A comprehensive solution tailored for pharmacies to manage **drug inventory, prescriptions, sales, suppliers, and reporting**. The system improves accuracy, reduces losses, and ensures regulatory compliance in medical record handling.
 
 ### 🔹 [Laravel E-commerce with MPESA](https://github.com/Jmuthoga/laravel-ecommerce-mpesa)
 
-Scalable e-commerce platform with admin dashboard, product and order management, and secure MPESA payments.
+A scalable e-commerce platform with an **admin dashboard, product catalog, order management, and integrated MPESA payments**. It provides a secure, user-friendly online shopping experience while supporting business growth.
 
 ### 🔹 [JM Innovatech Solutions Website](https://jminnovatechsolution.co.ke)
 
-Official company website showcasing services, solutions, and portfolio.
+The official corporate website for **JM Innovatech Solutions**, showcasing services, solutions, and client portfolio. It serves as a central hub for business inquiries, client engagement, and company updates.
+
+### 🔹 [Loan Management System](http://loan.jminnovatechsolution.co.ke)
+
+A robust system that enables financial institutions to **manage borrowers, loans, repayments, interest calculations, and reporting**. It simplifies loan tracking and ensures transparency between lenders and clients.
+
+> **Note:** Some of the above projects are presented as public demos, while others remain private to protect client confidentiality.
 
 ---
 
