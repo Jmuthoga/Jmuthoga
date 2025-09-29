@@ -34,17 +34,22 @@ I have successfully delivered scalable solutions that streamline business operat
 ---
 
 ## 📌 Featured Projects
-### 🔹 [Point of Sale System with MPESA](https://github.com/Jmuthoga/Point-of-Sale-System-intergrated-with-Mpesa)  
-Modern Laravel POS system with real-time MPESA integration, order management, and automated payment confirmation.  
 
-### 🔹 [Pharmacy Management System](https://github.com/Jmuthoga/Phamarcy_management_system)  
-Comprehensive pharmacy management solution with inventory, orders, sales, and reporting features.  
+### 🔹 [Point of Sale System with MPESA](https://pos.jminnovatechsolution.co.ke)
 
-### 🔹 [Laravel E-commerce with MPESA](https://github.com/Jmuthoga/laravel-ecommerce-mpesa)  
-Scalable e-commerce platform with admin dashboard, product and order management, and secure MPESA payments.  
+Modern Laravel POS system with real-time MPESA integration, order management, and automated payment confirmation.
 
-### 🔹 [JM Innovatech Solutions Website](https://github.com/Jmuthoga/JM-Innovatech-solutions-Website)  
-Official company website showcasing services, solutions, and portfolio.  
+### 🔹 [Pharmacy Management System](https://github.com/Jmuthoga/Phamarcy_management_system)
+
+Comprehensive pharmacy management solution with inventory, orders, sales, and reporting features.
+
+### 🔹 [Laravel E-commerce with MPESA](https://github.com/Jmuthoga/laravel-ecommerce-mpesa)
+
+Scalable e-commerce platform with admin dashboard, product and order management, and secure MPESA payments.
+
+### 🔹 [JM Innovatech Solutions Website](https://jminnovatechsolution.co.ke)
+
+Official company website showcasing services, solutions, and portfolio.
 
 ---
 
