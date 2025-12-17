@@ -4,22 +4,7 @@
 Founder & Lead Developer at [JM Innovatech Solutions](https://jminnovatechsolution.co.ke)  
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?
-    font=JetBrains+Mono
-    &size=20
-    &pause=1200
-    &color=36BCF7
-    &center=true
-    &vCenter=true
-    &width=900
-    &lines=System+Development;
-    Scalable+Architecture;
-    Developer+Experience;
-    Currently+Learning:+Advanced+System+Design+Patterns;
-    Code+with+purpose,+build+with+passion;
-    Turning+complex+problems+into+elegant+solutions"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=900&lines=System+Development;Scalable+Architecture;Developer+Experience;Currently+Learning:+Advanced+System+Design+Patterns;Code+with+purpose,+build+with+passion;Turning+complex+problems+into+elegant+solutions" alt="Typing SVG" />
 </p>
 
 ## 🌟 Professional Summary
