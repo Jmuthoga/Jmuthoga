@@ -3,22 +3,24 @@
 **Software Developer | Laravel & PHP Expert | MPESA Integrations**  
 Founder & Lead Developer at [JM Innovatech Solutions](https://jminnovatechsolution.co.ke)  
 
-```js
-const Jmuthoga = {
-  focus: [
-    "System Development",
-    "Scalable Architecture",
-    "Developer Experience"
-  ],
-  currentlyLearning: "Advanced System Design Patterns",
-  philosophy: "Code with purpose, build with passion",
-  superpower: "Turning complex problems into elegant solutions"
-};
-```
-export default Jmuthoga;
-
-export default Jmuthoga;
----
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?
+    font=JetBrains+Mono
+    &size=20
+    &pause=1200
+    &color=36BCF7
+    &center=true
+    &vCenter=true
+    &width=900
+    &lines=System+Development;
+    Scalable+Architecture;
+    Developer+Experience;
+    Currently+Learning:+Advanced+System+Design+Patterns;
+    Code+with+purpose,+build+with+passion;
+    Turning+complex+problems+into+elegant+solutions"
+  />
+</p>
 
 ## 🌟 Professional Summary
 I am a results-driven software developer with **over 3 years of experience** in designing and building **web applications, POS, ERP, and e-commerce systems**.  
