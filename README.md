@@ -3,6 +3,7 @@
 **Software Developer | Laravel & PHP Expert | MPESA Integrations**  
 Founder & Lead Developer at [JM Innovatech Solutions](https://jminnovatechsolution.co.ke)  
 
+```js
 const Jmuthoga = {
   focus: [
     "System Development",
@@ -13,6 +14,8 @@ const Jmuthoga = {
   philosophy: "Code with purpose, build with passion",
   superpower: "Turning complex problems into elegant solutions"
 };
+```
+export default Jmuthoga;
 
 export default Jmuthoga;
 ---
