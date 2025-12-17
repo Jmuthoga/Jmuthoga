@@ -3,13 +3,18 @@
 **Software Developer | Laravel & PHP Expert | MPESA Integrations**  
 Founder & Lead Developer at [JM Innovatech Solutions](https://jminnovatechsolution.co.ke)  
 
-const bonaventure = {
-  focus: ["System Design", "Scalable Architecture", "Developer Experience"],
+const Jmuthoga = {
+  focus: [
+    "System Development",
+    "Scalable Architecture",
+    "Developer Experience"
+  ],
   currentlyLearning: "Advanced System Design Patterns",
   philosophy: "Code with purpose, build with passion",
   superpower: "Turning complex problems into elegant solutions"
 };
 
+export default Jmuthoga;
 ---
 
 ## 🌟 Professional Summary
