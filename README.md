@@ -2,11 +2,12 @@
 
 **Software Developer | Laravel & PHP Expert | MPESA Integrations**  
 Founder & Lead Developer at [JM Innovatech Solutions](https://jminnovatechsolution.co.ke)  
-
 <p align="left">
   <strong>Expertise & Work:</strong><br>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=36BCF7&center=false&vCenter=true&width=1000&lines=Laravel+and+PHP+Development;MPESA+API+Integrations+(STK+Push,+Paybill,+C2B,+B2C);System+Development+and+Architecture;Scalable+POS+and+ERP+Systems;E-commerce+Platforms+with+Secure+Payments;RESTful+API+Design+and+Integration;Database+Design+(MySQL,+PostgreSQL,+Oracle);Developer+Experience+and+Clean+Code+Practices;Technology+Consulting+for+Businesses" 
-       alt="Typing SVG" style="max-width:100%; height:auto;" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&color=36BCF7&center=false&vCenter=true&width=800&lines=Laravel+and+PHP+Development;MPESA+API+Integrations+(STK+Push,+Paybill,+C2B,+B2C);System+Development+and+Architecture;Scalable+POS+and+ERP+Systems" 
+       alt="Typing SVG" style="max-width:100%; height:auto; display:block; margin-bottom:10px;" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&color=36BCF7&center=false&vCenter=true&width=800&lines=E-commerce+Platforms+with+Secure+Payments;RESTful+API+Design+and+Integration;Database+Design+(MySQL,+PostgreSQL,+Oracle);Developer+Experience+and+Clean+Code+Practices;Technology+Consulting+for+Businesses" 
+       alt="Typing SVG" style="max-width:100%; height:auto; display:block;" />
 </p>
 
 ## 🌟 Professional Summary
