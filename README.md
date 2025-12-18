@@ -6,18 +6,17 @@ Founder & Lead Developer at [JM Innovatech Solutions](https://jminnovatechsoluti
   <strong>Expertise & Work:</strong><br>
 
   <!-- Line 1 -->
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&pause=1000&color=36BCF7&center=false&vCenter=true&width=800&lines=Laravel+and+PHP+Development;MPESA+API+Integrations+(STK,+Paybill,+C2B,+B2C);System+Development+and+Architecture" 
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&pause=1000&color=36BCF7&center=false&vCenter=true&width=1000&lines=Laravel+and+PHP+Development;MPESA+API+Integrations+(STK,+Paybill,+C2B,+B2C);System+Development+and+Architecture;Git+and+GitHub;Version+Control+Workflows" 
        alt="Typing SVG" style="max-width:100%; height:auto; display:block; margin-bottom:10px;" />
 
   <!-- Line 2 -->
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&pause=1000&color=36BCF7&center=false&vCenter=true&width=800&lines=Scalable+POS+and+ERP+Systems;E-commerce+Platforms+with+Secure+Payments;RESTful+API+Design+and+Integration" 
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&pause=1000&color=36BCF7&center=false&vCenter=true&width=1000&lines=Scalable+POS+and+ERP+Systems;E-commerce+Platforms+with+Secure+Payments;RESTful+API+Design+and+Integration;Frontend+Development+with+JS,+Vue,+React" 
        alt="Typing SVG" style="max-width:100%; height:auto; display:block; margin-bottom:10px;" />
 
   <!-- Line 3 -->
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&pause=1000&color=36BCF7&center=false&vCenter=true&width=800&lines=Database+Design+(MySQL,+PostgreSQL,+Oracle);Developer+Experience+and+Clean+Code+Practices;Technology+Consulting+for+Businesses" 
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&pause=1000&color=36BCF7&center=false&vCenter=true&width=1000&lines=Database+Design+(MySQL,+PostgreSQL,+Oracle);Cloud+Integration+and+AWS;DevOps+Basics;Clean+Code+Practices;Technology+Consulting+for+Businesses" 
        alt="Typing SVG" style="max-width:100%; height:auto; display:block;" />
 </p>
-
 
 ## 🌟 Professional Summary
 I am a results-driven software developer with **over 3 years of experience** in designing and building **web applications, POS, ERP, and e-commerce systems**.  
