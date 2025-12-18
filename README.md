@@ -4,11 +4,20 @@
 Founder & Lead Developer at [JM Innovatech Solutions](https://jminnovatechsolution.co.ke)  
 <p align="left">
   <strong>Expertise & Work:</strong><br>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&color=36BCF7&center=false&vCenter=true&width=800&lines=Laravel+and+PHP+Development;MPESA+API+Integrations+(STK+Push,+Paybill,+C2B,+B2C);System+Development+and+Architecture;Scalable+POS+and+ERP+Systems" 
+
+  <!-- Line 1 -->
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&pause=1000&color=36BCF7&center=false&vCenter=true&width=800&lines=Laravel+and+PHP+Development;MPESA+API+Integrations+(STK,+Paybill,+C2B,+B2C);System+Development+and+Architecture" 
        alt="Typing SVG" style="max-width:100%; height:auto; display:block; margin-bottom:10px;" />
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&color=36BCF7&center=false&vCenter=true&width=800&lines=E-commerce+Platforms+with+Secure+Payments;RESTful+API+Design+and+Integration;Database+Design+(MySQL,+PostgreSQL,+Oracle);Developer+Experience+and+Clean+Code+Practices;Technology+Consulting+for+Businesses" 
+
+  <!-- Line 2 -->
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&pause=1000&color=36BCF7&center=false&vCenter=true&width=800&lines=Scalable+POS+and+ERP+Systems;E-commerce+Platforms+with+Secure+Payments;RESTful+API+Design+and+Integration" 
+       alt="Typing SVG" style="max-width:100%; height:auto; display:block; margin-bottom:10px;" />
+
+  <!-- Line 3 -->
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&pause=1000&color=36BCF7&center=false&vCenter=true&width=800&lines=Database+Design+(MySQL,+PostgreSQL,+Oracle);Developer+Experience+and+Clean+Code+Practices;Technology+Consulting+for+Businesses" 
        alt="Typing SVG" style="max-width:100%; height:auto; display:block;" />
 </p>
+
 
 ## 🌟 Professional Summary
 I am a results-driven software developer with **over 3 years of experience** in designing and building **web applications, POS, ERP, and e-commerce systems**.  
